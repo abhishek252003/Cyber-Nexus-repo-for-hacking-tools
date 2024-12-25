@@ -34,7 +34,7 @@ def scan_ports(ip_address, start_port, end_port):
 # Main execution
 if __name__ == "__main__":
     # Set the target website URL
-    website_url = "example.com"
+    website_url = "redditasic m.com"
 
     # Get the IP address of the website
     ip_address = get_ip_address(website_url)
